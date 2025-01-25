@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "inline_n.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "libetc.h": "c",
+        "joypad.h": "c",
+        "globals.h": "c",
+        "array": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "string_view": "c",
+        "libgpu.h": "c",
+        "display.h": "c"
+    }
+}
